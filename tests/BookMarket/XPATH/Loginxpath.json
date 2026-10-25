@@ -1,0 +1,6 @@
+{
+    "XLOGO":"//span[text()='BookMarket']",
+    "XUN":"input#login-email",
+    "XUP":"input#login-password",
+    "XBUTTON":"button#login-submit"
+}

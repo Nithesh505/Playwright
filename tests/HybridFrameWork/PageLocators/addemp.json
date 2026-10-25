@@ -1,0 +1,11 @@
+{
+    "Hlogo":"div#rightHeaderImage",
+    "XID":"input#txtEmployeeId",
+    "XFNAME":"input#txtEmpLastName",
+    "XLNAME":"input#txtEmpFirstName",
+    "XMNAME":"input#txtEmpMiddleName",
+    "XNNAME":"input#txtEmpNickName",
+    "XFILE":"input#photofile",
+    "XSAVE":"input#btnEdit",
+    "FRAME":"iframe#rightMenu"
+}

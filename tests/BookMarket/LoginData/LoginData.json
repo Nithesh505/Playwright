@@ -1,0 +1,36 @@
+{
+    "URL":"https://book-market-virid.vercel.app/login",
+    "user":[
+        {
+        "username":"user123",
+        "pass":"pass121"
+        },
+        {
+        "username":"student@bookmarket.com",
+        "pass":"pass121" 
+        },
+        
+               {
+        "username":"student@bookmarket.com",
+        "pass":"" 
+        },
+        {
+        "username":"student@om",
+        "pass":"password123" 
+        },
+        {       
+        "username":"",
+        "pass":"password123" 
+        },
+        {
+            "username":"", 
+             "pass":""  
+        },
+        {
+            "username":"student@bookmarket.com", 
+             "pass":"password123"  
+        }
+],
+    "tittle":"Login - Book Market"
+    
+}

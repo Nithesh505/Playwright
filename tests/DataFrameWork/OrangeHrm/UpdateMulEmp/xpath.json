@@ -1,0 +1,9 @@
+{
+    "URL":"http://127.0.0.1/orangehrm-2.5.0.2/login.php",
+    "UserName":"selenium",
+    "Password":"selenium",
+    "UNXpath":"//input[@name='txtUserName']",
+    "UPXpath":"//input[@type='password']",
+    "LXpath":"//input[@name='Submit']"
+
+}
