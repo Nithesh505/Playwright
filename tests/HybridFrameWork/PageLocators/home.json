@@ -1,8 +1,0 @@
-{
-    "himage":"//img[@height='180']",
-    "htittle":"OrangeHRM - New Level of HR Managemen",
-    "htext":"//font[@face='tahoma']",
-    "XUN":"//input[@name='txtUserName']",
-    "XUP":"//input[@name='txtPassword']",
-    "XLOGIN":"//input[@type='Submit']"
-}

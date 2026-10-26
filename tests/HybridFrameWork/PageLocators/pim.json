@@ -1,7 +1,0 @@
-{
-    "DLogo":"div#companyLogoHeader",
-    "Text":"//li[text()='Welcome selenium']",
-    "Hover":"//span[@class='drop current']",
-    "click":"//span[text()='Add Employee']"
-    
-}
